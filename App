@@ -1,2 +1,0 @@
-json.put("code", BackCode.PASS.getIndex());
-json.put("msg", BackCode.PASS.getName());
